@@ -1,6 +1,6 @@
 # Eye Exercise
 ## Description:
-In this exercise we demontrate control of the DOM (Document Object Model) using JavaScript.  Objects (eye pupils) appear to follow the mouse position.  We accomplish this by rapidly updating the position of the pupils whenever the browser detects mouse movement through the use of the '.onmousemove' JavaScript function.
+In this exercise we demonstrate control of the DOM (Document Object Model) using JavaScript.  Objects (eye pupils) appear to follow the mouse position.  We accomplish this by rapidly updating the position of the pupils whenever the browser detects mouse movement through the use of the '.onmousemove' JavaScript function.
 There is nothing to click here, only moving eyeballs...enjoy!
 ## How to Run:
 Download all files into a directory, and point your local browser to the index.html file.  Alternatively, point your browser at: https://mechanicalmayhem.github.io/eyeExercise/ to load this example through GitHub.  This file was developed and has only been tested in Google Chrome Version 90.0.4430.93 (Official Build) (64-bit).
